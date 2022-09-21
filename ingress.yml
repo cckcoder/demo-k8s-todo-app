@@ -7,7 +7,7 @@ metadata:
     nginx.ingress.kubernetes.io/use-regex: "true"
 spec:
   rules:
-    - host: todo.com
+    - host: todo.cckcoder.cc
       http:
         paths:
           - path: /api/
